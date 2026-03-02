@@ -6,7 +6,7 @@
 
 ## Prerequisites
 A PDF-to-image converter (Amazon doesn't allow upload of PDF return labels). For Windows, run:
-```winget install clawSoft.clawPDF``` in Powershell
+```winget install clawSoft.clawPDF``` in an [elevated PowerShell](https://learn.microsoft.com/en-us/powershell/scripting/learn/ps101/01-getting-started?view=powershell-7.5#how-to-launch-powershell) session
 
 
 ## Actions
