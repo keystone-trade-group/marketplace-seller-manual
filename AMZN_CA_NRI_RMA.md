@@ -17,3 +17,4 @@ A PDF-to-image converter (Amazon doesn't allow upload of PDF return labels). For
   - Get return label shipping quotes using postal codes and original shipment dimensions. Try:
     - [Canada Post](https://www.canadapost-postescanada.ca/shippingtools-outilsexpedition/en/shipment)
     - [eShipper](https://ww2.eshipper.com/customer/shipping/quick-quote)
+  - Make and buy your label and print to image. If you have the option, PNG may be better than JPEG.
