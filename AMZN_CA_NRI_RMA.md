@@ -10,5 +10,5 @@
 - For each order:
   - open "More information" to view postal codes
   - Get return label shipping quotes using postal codes and original shipment dimensions. Try:
-    - Canada Post
-    - eShipper
+    - [Canada Post](https://www.canadapost-postescanada.ca/shippingtools-outilsexpedition/en/shipment)
+    - [eShipper](https://ww2.eshipper.com/customer/shipping/quick-quote)
